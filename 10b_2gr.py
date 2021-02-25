@@ -21,6 +21,6 @@ Verþanovskis Marks
 11 	
 Volkova Veronika
 print(9+2)
-Zariòð Roberts
+#Zariòð Roberts
 13 	
 Þaravins Kirills
